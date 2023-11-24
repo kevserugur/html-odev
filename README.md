@@ -1,2 +1,2 @@
 # html-odev
-html birinci ödev
+html ödevler
